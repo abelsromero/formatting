@@ -6,8 +6,8 @@
 * Ensure the Spring Cloud Commercial is set up according to getting started.
 * Ensure `Editorconfig` plugin is enabled.
 
-* Format (cmd+alt+L) `RewriteResponseHeadersGatewayFilterFactoryTest`
-* *Create PR with a branch with your name if there are changes, if not, comment on issue #.*
+* Format (cmd+alt+L) `src/test/java/...RewriteResponseHeadersGatewayFilterFactoryTest`
+* *Create PR with a branch with your name if there are changes, if not, comment on issue https://github.com/abelsromero/formatting/issues/1.*
 
 
 == Notes
