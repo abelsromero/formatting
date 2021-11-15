@@ -1,0 +1,16 @@
+= Formatting test
+
+== Steps
+
+* Import project.
+* Ensure the Spring Cloud Commercial is set up according to getting started.
+* Ensure `Editorconfig` plugin is enabled.
+
+* Format (cmd+alt+L) `RewriteResponseHeadersGatewayFilterFactoryTest`
+* *Create PR with a branch with your name if there are changes, if not, comment on issue #.*
+
+
+== Notes
+
+* editorconfig seems responsible for aligning linebreaks after coma.
+Without it, lines are shifted 1 indentation to the left.
